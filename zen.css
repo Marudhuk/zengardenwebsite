@@ -3,14 +3,9 @@ body{
 }
 
 .image{
-    /* background-color: black; */
     background-image: url('./assests/screwoff\ \(1\).gif');
-    /* background-size: cover; */
     width: 800px;
     background-size: 100%;
-
-    /* background-repeat:no-repeat ; */
-    /* height:100%; */
 }
 
 .font {
